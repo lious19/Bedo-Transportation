@@ -1,0 +1,78 @@
+/* Color Palette */
+:root {
+  --bedo-green: #00391e;     /* Dark Sienna Green */
+  --bedo-gold: #d4af37;      /* Elegant Gold */
+  --bedo-white: #ffffff;     /* Clean White */
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: var(--bedo-green);
+  color: var(--bedo-white);
+}
+
+header {
+  text-align: center;
+  padding: 2rem;
+  background-color: var(--bedo-green);
+}
+
+header h1 {
+  color: var(--bedo-gold);
+  font-size: 2.5rem;
+  letter-spacing: 2px;
+}
+
+header p {
+  font-size: 1.2rem;
+  color: var(--bedo-white);
+}
+
+.hero {
+  text-align: center;
+  padding: 2rem;
+}
+
+.car-image {
+  width: 80%;
+  max-width: 600px;
+  border-radius: 10px;
+  margin: 1rem 0;
+}
+
+.tagline {
+  font-size: 1.3rem;
+  color: var(--bedo-gold);
+  font-style: italic;
+}
+
+.services {
+  background-color: #022e1a;
+  padding: 2rem;
+  text-align: center;
+}
+
+.services h2 {
+  color: var(--bedo-gold);
+  margin-bottom: 1rem;
+}
+
+.services ul {
+  list-style: none;
+  padding: 0;
+  color: var(--bedo-white);
+}
+
+.services li {
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+footer {
+  background-color: #001a0e;
+  text-align: center;
+  padding: 1rem;
+  color: var(--bedo-white);
+  font-size: 0.9rem;
+}
