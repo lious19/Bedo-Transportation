@@ -1,0 +1,35 @@
+# Bedo Transportation — Ride & Medical Courier Services Website
+
+A fully custom website built from scratch for Bedo Transportation, a DFW-based ride and medical courier service company.
+
+## Project Overview
+
+Designed and developed a professional service website to establish an online presence for a local transportation business offering both standard ride services and medical courier/non-emergency medical transport (NEMT) services.
+
+## Features
+
+- Service overview pages for ride services and medical courier offerings
+- Contact and booking section for client inquiries
+- Mobile-responsive layout
+- Clean, professional design suited for healthcare-adjacent clientele
+
+## Tools & Stack
+
+| Tool | Role |
+|------|------|
+| HTML | Page structure and content |
+| CSS | Styling and responsive layout |
+| GitHub Pages | Hosting and deployment |
+
+## Skills Demonstrated
+
+- Frontend web development (HTML/CSS)
+- UI layout and responsive design
+- Real-world client website build
+- Version control with GitHub
+
+## Status
+
+In development. Built for an actual local DFW transportation business.
+
+Built by Megan Dimiyo-Mbenoun
